@@ -17,5 +17,8 @@ countries on 1,500 markets.
 
 Data is not updated anymore and contains prices until 22.08.2021
 
+For the shapefile I selected South America, Asia,Africa and Europe on this site:
+https://geojson-maps.ash.ms/
+
 Visualizations:
 https://public.tableau.com/app/profile/marcel4354/viz/WorldFoodPricesAnalysis/FullStory?publish=yes
