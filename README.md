@@ -1,5 +1,5 @@
 # World-Food-Prices
-Analysis on food prices over time in different countries to find driving factors for an increase in prices.
+Analysis on food prices over time in different countries.
 
 Data Source 
 Link: https://www.kaggle.com/jboysen/global-food-prices
