@@ -1,5 +1,5 @@
-# World-Food-Prices
-Analysis on food prices over time in different countries.
+# Global Warming
+Analysis on global emissions and temperatures over the years.
 
 Data Source 
 Link: https://www.kaggle.com/jboysen/global-food-prices
