@@ -2,17 +2,13 @@
 Analysis on global emissions and temperatures over the years.
 
 Data Source 
-Link: 
-
-Compiled by 
-
-Distributed by 
-Link: 
+Link: fao.org/faostat/en/#data
 
 Data collection: Owner of the dataset is the 
  
 Data contents: Covers temperatures and different emissions per country and year. 
 
+Data Owner: The Food and Agriculture Organization (FAO)
 
 For the shapefile I selected South America, Asia,Africa and Europe on this site:
 https://geojson-maps.ash.ms/
