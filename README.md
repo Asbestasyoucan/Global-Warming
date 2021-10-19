@@ -14,4 +14,4 @@ For the shapefile I selected South America, Asia,Africa and Europe on this site:
 https://geojson-maps.ash.ms/
 
 Visualizations:
-https://public.tableau.com/app/profile/marcel4354/viz/Book1_16328502089690/Story2#1
+https://public.tableau.com/app/profile/marcel4354/viz/FinalGlobalWarming/Story2?publish=yes
