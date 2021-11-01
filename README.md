@@ -1,5 +1,5 @@
 # Global Warming
-Analysis on global emissions and temperatures over the years.
+Analysis on global emissions and temperature increase over the years.
 
 Data Source 
 Link: fao.org/faostat/en/#data
